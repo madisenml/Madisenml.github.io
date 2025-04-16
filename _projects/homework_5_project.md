@@ -49,6 +49,6 @@ Key data transformations include filtering out years outside 2001–2006 and agg
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/madisenml/Madisenml.github.io/blob/main/python_notebooks/workbook.ipynb" text="The Analysis" %}
 </div>
 
